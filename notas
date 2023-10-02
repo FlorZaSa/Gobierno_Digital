@@ -1,0 +1,3 @@
+const nombre = <h1>Jelou babys!!!!</h1> //se utilizan las variables7constantes para poder reutilzar los recursos en varias ocasiones
+import './App.css'; Se usa asi la forma de importar cuando los elementos se encuentran en la misma ruta
+import Menu from './Componentes/header/Header'; Se usa asi la forma de importar cuando los elementos se encuentran en rutas/carpetas distintas
